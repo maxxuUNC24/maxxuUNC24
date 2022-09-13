@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxxuUNC24
+- 👋 Hi, I’m @maxxuUNC33
 - 👀 I’m interested in anything WebScraping, ML, NLP (Coqui TTS), Image Processing and More
 - 🌱 I’m currently Enrolled in Computer Science Bachelors
 - 💞️ I’m looking to collaborate on a Data Cleaning Project
